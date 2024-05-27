@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-color: lightblue;
+    background-color: rgb(124, 161, 120);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,13 +22,13 @@ body{
     margin: 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: 0 35px 35px rgba(0,0,0,0.1);
+    box-shadow: 0 35px 35px rgba(230, 15, 15, 0.1);
 }
 /*LADO IZQUIERDO*/
 
 .container .left_Side{
     position: relative;
-    background-color: #003147;
+    background-color: #74098f;
     padding: 40px;
 }
 /*foto,nombre, titulo----- toda esa parte del cv 
